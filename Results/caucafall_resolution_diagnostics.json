@@ -1,0 +1,1178 @@
+{
+  "extracted_root": "/content/fall_detection_work/CAUCAFall",
+  "video_files_found": 516,
+  "omnifall_label_rows": 258,
+  "usable_annotation_rows": 258,
+  "resolved_manifest_rows": 258,
+  "missing_annotations": 0,
+  "malformed_annotations": 0,
+  "unresolved_logical_video_keys": 0,
+  "logical_video_keys": 100,
+  "unique_physical_videos_used": 100,
+  "expected_logical_videos": 100,
+  "expected_omnifall_segments": 258,
+  "resolution_policy": "one deterministic physical representative per (subject,activity) logical video key",
+  "resolution_diagnostics": [
+    {
+      "subject": 1,
+      "activity_key": "hop",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/HopS1_9_0.000_9.100_1_1_caucafall.avi",
+      "candidate_count": 22,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/HopS1_9_0.000_9.100_1_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 1,
+      "activity_key": "kneel",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/KneelS1_9_0.000_10.950_1_1_caucafall.avi",
+      "candidate_count": 42,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/KneelS1_9_0.000_10.950_1_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 1,
+      "activity_key": "pickupobject",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/PickupobjectS1_0_0.000_1.200_1_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/PickupobjectS1_0_0.000_1.200_1_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/PickupobjectS1_8_4.765_5.845_1_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/PickupobjectS1_9_1.200_4.770_1_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 1,
+      "activity_key": "sitdown",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/SitDownS1_3_0.000_5.737_1_1_caucafall.avi",
+      "candidate_count": 68,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/SitDownS1_3_0.000_5.737_1_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/SitDownS1_4_5.737_9.341_1_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 1,
+      "activity_key": "fallbackwards",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallBackwardsS1_1_1.930_3.770_1_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallBackwardsS1_1_1.930_3.770_1_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallBackwardsS1_6_3.770_6.250_1_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallBackwardsS1_8_0.000_1.930_1_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 1,
+      "activity_key": "walk",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/WalkS1_0_0.000_6.460_1_1_caucafall.avi",
+      "candidate_count": 24,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/WalkS1_0_0.000_6.460_1_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/WalkS1_0_7.300_12.100_1_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/WalkS1_8_6.460_7.300_1_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 1,
+      "activity_key": "fallforward",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallForwardS1_0_2.920_5.320_1_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallForwardS1_0_2.920_5.320_1_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallForwardS1_1_5.320_7.640_1_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallForwardS1_2_7.640_9.500_1_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallForwardS1_8_0.000_2.920_1_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 1,
+      "activity_key": "fallleft",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallLeftS1_0_0.000_0.910_1_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallLeftS1_0_0.000_0.910_1_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallLeftS1_1_0.910_2.990_1_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallLeftS1_2_2.990_4.290_1_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 1,
+      "activity_key": "fallright",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallRightS1_1_0.530_3.430_1_1_caucafall.avi",
+      "candidate_count": 64,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallRightS1_1_0.530_3.430_1_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallRightS1_2_3.430_5.690_1_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallRightS1_8_0.000_0.530_1_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 1,
+      "activity_key": "fallsitting",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallSittingS1_1_1.850_5.990_1_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallSittingS1_1_1.850_5.990_1_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallSittingS1_2_5.990_9.090_1_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.1/FallSittingS1_4_0.000_1.850_1_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 2,
+      "activity_key": "fallforward",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallForwardS2_1_0.000_1.880_2_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallForwardS2_1_0.000_1.880_2_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallForwardS2_2_1.680_5.300_2_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 2,
+      "activity_key": "hop",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/HopS2_9_0.000_8.550_2_1_caucafall.avi",
+      "candidate_count": 22,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/HopS2_9_0.000_8.550_2_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 2,
+      "activity_key": "kneel",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/KneelS2_7_4.990_6.490_2_1_caucafall.avi",
+      "candidate_count": 42,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/KneelS2_7_4.990_6.490_2_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/KneelS2_9_0.000_5.000_2_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 2,
+      "activity_key": "sitdown",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/SitDownS2_3_0.000_3.070_2_1_caucafall.avi",
+      "candidate_count": 68,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/SitDownS2_3_0.000_3.070_2_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/SitDownS2_4_3.070_4.799_2_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/SitDownS2_7_4.799_5.600_2_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 2,
+      "activity_key": "pickupobject",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/PickupobjectS2_0_0.000_1.296_2_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/PickupobjectS2_0_0.000_1.296_2_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/PickupobjectS2_8_8.080_8.300_2_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/PickupobjectS2_9_1.296_8.082_2_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 2,
+      "activity_key": "walk",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/WalkS2_0_0.000_12.200_2_1_caucafall.avi",
+      "candidate_count": 24,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/WalkS2_0_0.000_12.200_2_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 2,
+      "activity_key": "fallbackwards",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallBackwardsS2_1_2.060_4.660_2_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallBackwardsS2_1_2.060_4.660_2_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallBackwardsS2_2_4.660_5.940_2_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallBackwardsS2_8_0.000_2.060_2_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 2,
+      "activity_key": "fallright",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallRightS2_0_0.280_1.060_2_1_caucafall.avi",
+      "candidate_count": 64,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallRightS2_0_0.280_1.060_2_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallRightS2_1_1.060_2.620_2_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallRightS2_2_2.620_7.300_2_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallRightS2_8_0.000_0.280_2_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 2,
+      "activity_key": "fallsitting",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallSittingS2_1_2.240_5.620_2_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallSittingS2_1_2.240_5.620_2_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallSittingS2_2_5.620_7.840_2_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallSittingS2_4_0.000_2.240_2_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 2,
+      "activity_key": "fallleft",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallLeftS2_1_0.610_3.230_2_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallLeftS2_1_0.610_3.230_2_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallLeftS2_2_3.230_5.450_2_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.2/FallLeftS2_8_0.010_0.610_2_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 3,
+      "activity_key": "hop",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/HopS3_9_0.000_8.100_3_1_caucafall.avi",
+      "candidate_count": 22,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/HopS3_9_0.000_8.100_3_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 3,
+      "activity_key": "kneel",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/KneelS3_7_6.990_10.648_3_1_caucafall.avi",
+      "candidate_count": 42,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/KneelS3_7_6.990_10.648_3_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/KneelS3_9_0.000_6.990_3_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 3,
+      "activity_key": "pickupobject",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/PickupobjectS3_0_0.000_1.696_3_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/PickupobjectS3_0_0.000_1.696_3_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/PickupobjectS3_0_7.830_9.282_3_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/PickupobjectS3_8_7.446_7.830_3_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/PickupobjectS3_9_1.696_7.446_3_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 3,
+      "activity_key": "sitdown",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/SitDownS3_3_1.987_5.612_3_1_caucafall.avi",
+      "candidate_count": 68,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/SitDownS3_3_1.987_5.612_3_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/SitDownS3_4_5.570_13.049_3_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/SitDownS3_9_0.000_1.987_3_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 3,
+      "activity_key": "walk",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/WalkS3_0_0.000_8.800_3_1_caucafall.avi",
+      "candidate_count": 24,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/WalkS3_0_0.000_8.800_3_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 3,
+      "activity_key": "fallbackwards",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallBackwardsS3_1_2.220_5.000_3_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallBackwardsS3_1_2.220_5.000_3_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallBackwardsS3_2_5.000_8.300_3_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallBackwardsS3_8_0.000_2.220_3_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 3,
+      "activity_key": "fallforward",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallForwardS3_1_3.010_5.190_3_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallForwardS3_1_3.010_5.190_3_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallForwardS3_2_5.190_7.650_3_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallForwardS3_8_0.000_3.010_3_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 3,
+      "activity_key": "fallleft",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallLeftS3_1_4.270_6.130_3_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallLeftS3_1_4.270_6.130_3_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallLeftS3_2_6.130_8.550_3_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallLeftS3_8_0.000_4.270_3_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 3,
+      "activity_key": "fallright",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallRightS3_1_1.760_3.760_3_1_caucafall.avi",
+      "candidate_count": 64,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallRightS3_1_1.760_3.760_3_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallRightS3_2_3.760_11.000_3_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallRightS3_8_0.000_1.760_3_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 3,
+      "activity_key": "fallsitting",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallSittingS3_1_1.500_3.420_3_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallSittingS3_1_1.500_3.420_3_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallSittingS3_2_3.420_10.100_3_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.3/FallSittingS3_4_0.000_1.500_3_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 4,
+      "activity_key": "fallforward",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/FallForwardS4_1_0.000_2.000_4_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/FallForwardS4_1_0.000_2.000_4_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/FallForwardS4_2_2.000_8.390_4_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 4,
+      "activity_key": "hop",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/HopS4_9_0.000_7.200_4_1_caucafall.avi",
+      "candidate_count": 22,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/HopS4_9_0.000_7.200_4_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 4,
+      "activity_key": "kneel",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/KneelS4_7_8.531_11.091_4_1_caucafall.avi",
+      "candidate_count": 42,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/KneelS4_7_8.531_11.091_4_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/KneelS4_9_0.000_8.540_4_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 4,
+      "activity_key": "pickupobject",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/PickupobjectS4_0_0.000_8.950_4_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/PickupobjectS4_0_0.000_8.950_4_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 4,
+      "activity_key": "sitdown",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/SitDownS4_3_2.799_5.987_4_1_caucafall.avi",
+      "candidate_count": 68,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/SitDownS4_3_2.799_5.987_4_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/SitDownS4_4_5.987_9.944_4_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/SitDownS4_9_0.000_2.799_4_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 4,
+      "activity_key": "walk",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/WalkS4_0_0.000_12.000_4_1_caucafall.avi",
+      "candidate_count": 24,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/WalkS4_0_0.000_12.000_4_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 4,
+      "activity_key": "fallbackwards",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/FallBackwardsS4_0_0.000_2.150_4_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/FallBackwardsS4_0_0.000_2.150_4_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/FallBackwardsS4_1_2.150_5.210_4_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/FallBackwardsS4_5_5.210_9.590_4_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 4,
+      "activity_key": "fallleft",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/FallLeftS4_1_1.980_4.180_4_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/FallLeftS4_1_1.980_4.180_4_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/FallLeftS4_2_4.180_8.100_4_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/FallLeftS4_9_0.000_1.980_4_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 4,
+      "activity_key": "fallright",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/FallRightS4_1_1.180_3.180_4_1_caucafall.avi",
+      "candidate_count": 64,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/FallRightS4_1_1.180_3.180_4_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/FallRightS4_2_3.180_7.500_4_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/FallRightS4_8_0.000_1.180_4_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 4,
+      "activity_key": "fallsitting",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/FallSittingS4_1_2.260_4.100_4_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/FallSittingS4_1_2.260_4.100_4_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/FallSittingS4_2_4.100_9.900_4_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.4/FallSittingS4_4_0.000_2.260_4_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 5,
+      "activity_key": "hop",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/HopS5_9_0.000_6.100_5_1_caucafall.avi",
+      "candidate_count": 22,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/HopS5_9_0.000_6.100_5_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 5,
+      "activity_key": "pickupobject",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/PickupobjectS5_0_0.000_2.505_5_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/PickupobjectS5_0_0.000_2.505_5_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/PickupobjectS5_0_12.855_13.550_5_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/PickupobjectS5_9_2.505_12.855_5_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 5,
+      "activity_key": "sitdown",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/SitDownS5_0_0.000_2.299_5_1_caucafall.avi",
+      "candidate_count": 68,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/SitDownS5_0_0.000_2.299_5_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/SitDownS5_3_2.299_6.883_5_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/SitDownS5_4_6.883_11.466_5_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/SitDownS5_7_11.466_12.986_5_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 5,
+      "activity_key": "walk",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/WalkS5_0_0.000_11.300_5_1_caucafall.avi",
+      "candidate_count": 24,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/WalkS5_0_0.000_11.300_5_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 5,
+      "activity_key": "fallbackwards",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallBackwardsS5_1_0.750_3.850_5_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallBackwardsS5_1_0.750_3.850_5_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallBackwardsS5_2_3.850_10.690_5_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallBackwardsS5_8_0.000_0.750_5_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 5,
+      "activity_key": "fallleft",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallLeftS5_1_1.970_4.490_5_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallLeftS5_1_1.970_4.490_5_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallLeftS5_2_4.490_12.350_5_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallLeftS5_8_0.000_1.970_5_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 5,
+      "activity_key": "fallforward",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallForwardS5_0_0.000_1.940_5_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallForwardS5_0_0.000_1.940_5_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallForwardS5_1_1.940_3.660_5_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallForwardS5_2_3.660_10.000_5_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 5,
+      "activity_key": "fallright",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallRightS5_0_1.800_2.800_5_1_caucafall.avi",
+      "candidate_count": 64,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallRightS5_0_1.800_2.800_5_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallRightS5_1_2.800_4.800_5_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallRightS5_2_4.800_10.940_5_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallRightS5_8_0.000_1.800_5_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 5,
+      "activity_key": "fallsitting",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallSittingS5_1_1.880_4.320_5_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallSittingS5_1_1.880_4.320_5_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallSittingS5_2_4.320_11.440_5_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/FallSittingS5_4_0.000_1.880_5_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 5,
+      "activity_key": "kneel",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/KneelS5_0_0.014_1.954_5_1_caucafall.avi",
+      "candidate_count": 42,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/KneelS5_0_0.014_1.954_5_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/KneelS5_7_6.674_10.394_5_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.5/KneelS5_9_2.127_6.673_5_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 6,
+      "activity_key": "hop",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/HopS6_9_0.000_8.100_6_1_caucafall.avi",
+      "candidate_count": 22,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/HopS6_9_0.000_8.100_6_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 6,
+      "activity_key": "kneel",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/KneelS6_7_7.334_9.434_6_1_caucafall.avi",
+      "candidate_count": 42,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/KneelS6_7_7.334_9.434_6_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/KneelS6_9_0.000_7.350_6_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 6,
+      "activity_key": "pickupobject",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/PickupobjectS6_0_0.000_2.195_6_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/PickupobjectS6_0_0.000_2.195_6_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/PickupobjectS6_0_8.695_10.091_6_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/PickupobjectS6_9_2.195_8.695_6_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 6,
+      "activity_key": "sitdown",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/SitDownS6_0_0.000_2.424_6_1_caucafall.avi",
+      "candidate_count": 68,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/SitDownS6_0_0.000_2.424_6_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/SitDownS6_3_2.424_5.362_6_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/SitDownS6_4_5.362_8.508_6_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/SitDownS6_7_8.508_9.450_6_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 6,
+      "activity_key": "walk",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/WalkS6_0_0.000_13.300_6_1_caucafall.avi",
+      "candidate_count": 24,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/WalkS6_0_0.000_13.300_6_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 6,
+      "activity_key": "fallbackwards",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallBackwardsS6_1_2.220_5.920_6_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallBackwardsS6_1_2.220_5.920_6_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallBackwardsS6_2_5.920_11.700_6_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallBackwardsS6_8_0.000_2.220_6_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 6,
+      "activity_key": "fallforward",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallForwardS6_0_0.000_2.360_6_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallForwardS6_0_0.000_2.360_6_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallForwardS6_1_2.360_5.200_6_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallForwardS6_2_5.200_10.100_6_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 6,
+      "activity_key": "fallleft",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallLeftS6_0_0.000_1.080_6_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallLeftS6_0_0.000_1.080_6_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallLeftS6_1_1.080_3.640_6_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallLeftS6_2_3.640_11.440_6_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 6,
+      "activity_key": "fallright",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallRightS6_0_0.000_2.900_6_1_caucafall.avi",
+      "candidate_count": 64,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallRightS6_0_0.000_2.900_6_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallRightS6_1_2.900_5.120_6_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallRightS6_2_5.120_11.440_6_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 6,
+      "activity_key": "fallsitting",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallSittingS6_1_2.980_6.020_6_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallSittingS6_1_2.980_6.020_6_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallSittingS6_2_6.020_12.400_6_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.6/FallSittingS6_4_0.000_2.980_6_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 7,
+      "activity_key": "hop",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/HopS7_9_0.000_9.900_7_1_caucafall.avi",
+      "candidate_count": 22,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/HopS7_9_0.000_9.900_7_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 7,
+      "activity_key": "kneel",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/KneelS7_7_9.320_10.100_7_1_caucafall.avi",
+      "candidate_count": 42,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/KneelS7_7_9.320_10.100_7_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/KneelS7_9_0.000_9.320_7_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 7,
+      "activity_key": "pickupobject",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/PickupobjectS7_0_1.069_2.238_7_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/PickupobjectS7_0_1.069_2.238_7_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/PickupobjectS7_7_0.000_1.069_7_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/PickupobjectS7_8_6.584_7.584_7_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/PickupobjectS7_9_2.238_6.584_7_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 7,
+      "activity_key": "sitdown",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/SitDownS7_0_0.000_0.799_7_1_caucafall.avi",
+      "candidate_count": 68,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/SitDownS7_0_0.000_0.799_7_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/SitDownS7_3_0.799_4.070_7_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/SitDownS7_4_4.070_8.195_7_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/SitDownS7_7_8.195_9.635_7_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 7,
+      "activity_key": "walk",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/WalkS7_0_0.000_9.650_7_1_caucafall.avi",
+      "candidate_count": 24,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/WalkS7_0_0.000_9.650_7_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 7,
+      "activity_key": "fallbackwards",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallBackwardsS7_1_3.090_5.550_7_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallBackwardsS7_1_3.090_5.550_7_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallBackwardsS7_2_5.550_12.550_7_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallBackwardsS7_8_0.000_3.090_7_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 7,
+      "activity_key": "fallforward",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallForwardS7_0_0.000_0.780_7_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallForwardS7_0_0.000_0.780_7_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallForwardS7_1_0.780_2.640_7_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallForwardS7_2_2.640_8.100_7_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 7,
+      "activity_key": "fallleft",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallLeftS7_1_2.360_4.380_7_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallLeftS7_1_2.360_4.380_7_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallLeftS7_2_4.380_10.600_7_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallLeftS7_8_0.000_2.360_7_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 7,
+      "activity_key": "fallright",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallRightS7_1_1.030_3.090_7_1_caucafall.avi",
+      "candidate_count": 64,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallRightS7_1_1.030_3.090_7_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallRightS7_2_3.090_8.290_7_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallRightS7_8_0.000_1.030_7_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 7,
+      "activity_key": "fallsitting",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallSittingS7_1_1.080_4.160_7_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallSittingS7_1_1.080_4.160_7_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallSittingS7_2_4.160_10.340_7_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.7/FallSittingS7_4_0.000_1.080_7_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 8,
+      "activity_key": "hop",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/HopS8_9_0.000_8.300_8_1_caucafall.avi",
+      "candidate_count": 22,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/HopS8_9_0.000_8.300_8_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 8,
+      "activity_key": "kneel",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/KneelS8_7_10.000_12.800_8_1_caucafall.avi",
+      "candidate_count": 42,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/KneelS8_7_10.000_12.800_8_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/KneelS8_9_0.000_10.000_8_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 8,
+      "activity_key": "pickupobject",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/PickupobjectS8_0_0.000_1.883_8_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/PickupobjectS8_0_0.000_1.883_8_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/PickupobjectS8_9_1.883_13.299_8_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 8,
+      "activity_key": "sitdown",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/SitDownS8_3_0.000_4.966_8_1_caucafall.avi",
+      "candidate_count": 68,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/SitDownS8_3_0.000_4.966_8_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/SitDownS8_4_4.966_10.591_8_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 8,
+      "activity_key": "walk",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/WalkS8_0_0.000_10.800_8_1_caucafall.avi",
+      "candidate_count": 24,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/WalkS8_0_0.000_10.800_8_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 8,
+      "activity_key": "fallbackwards",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallBackwardsS8_1_1.730_4.550_8_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallBackwardsS8_1_1.730_4.550_8_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallBackwardsS8_2_4.550_10.590_8_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallBackwardsS8_8_0.000_1.730_8_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 8,
+      "activity_key": "fallforward",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallForwardS8_0_0.000_0.710_8_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallForwardS8_0_0.000_0.710_8_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallForwardS8_1_0.710_2.550_8_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallForwardS8_2_2.550_6.090_8_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 8,
+      "activity_key": "fallleft",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallLeftS8_1_1.000_3.400_8_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallLeftS8_1_1.000_3.400_8_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallLeftS8_2_3.400_10.100_8_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallLeftS8_8_0.000_1.000_8_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 8,
+      "activity_key": "fallright",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallRightS8_0_0.000_1.580_8_1_caucafall.avi",
+      "candidate_count": 64,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallRightS8_0_0.000_1.580_8_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallRightS8_1_1.580_3.680_8_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallRightS8_2_3.680_11.440_8_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 8,
+      "activity_key": "fallsitting",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallSittingS8_1_2.250_5.550_8_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallSittingS8_1_2.250_5.550_8_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallSittingS8_2_5.550_11.690_8_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.8/FallSittingS8_4_0.000_2.250_8_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 9,
+      "activity_key": "hop",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/HopS9_8_0.000_0.700_9_1_caucafall.avi",
+      "candidate_count": 22,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/HopS9_8_0.000_0.700_9_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/HopS9_9_0.700_10.600_9_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 9,
+      "activity_key": "kneel",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/KneelS9_0_0.000_2.280_9_1_caucafall.avi",
+      "candidate_count": 42,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/KneelS9_0_0.000_2.280_9_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/KneelS9_7_8.920_10.800_9_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/KneelS9_9_2.280_8.920_9_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 9,
+      "activity_key": "pickupobject",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/PickupobjectS9_0_0.000_2.383_9_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/PickupobjectS9_0_0.000_2.383_9_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/PickupobjectS9_9_2.383_10.981_9_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 9,
+      "activity_key": "sitdown",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/SitDownS9_0_0.000_0.862_9_1_caucafall.avi",
+      "candidate_count": 68,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/SitDownS9_0_0.000_0.862_9_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/SitDownS9_3_0.862_4.716_9_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/SitDownS9_4_4.716_11.362_9_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/SitDownS9_7_11.362_11.900_9_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 9,
+      "activity_key": "walk",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/WalkS9_0_0.000_11.700_9_1_caucafall.avi",
+      "candidate_count": 24,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/WalkS9_0_0.000_11.700_9_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 9,
+      "activity_key": "fallbackwards",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallBackwardsS9_1_1.660_5.080_9_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallBackwardsS9_1_1.660_5.080_9_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallBackwardsS9_2_5.080_12.600_9_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallBackwardsS9_8_0.000_1.660_9_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 9,
+      "activity_key": "fallforward",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallForwardS9_0_0.000_1.250_9_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallForwardS9_0_0.000_1.250_9_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallForwardS9_1_1.250_3.450_9_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallForwardS9_2_3.450_7.390_9_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 9,
+      "activity_key": "fallleft",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallLeftS9_0_0.000_0.920_9_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallLeftS9_0_0.000_0.920_9_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallLeftS9_1_0.920_4.320_9_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallLeftS9_2_4.320_10.340_9_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 9,
+      "activity_key": "fallright",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallRightS9_0_0.000_1.500_9_1_caucafall.avi",
+      "candidate_count": 64,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallRightS9_0_0.000_1.500_9_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallRightS9_1_1.500_3.560_9_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallRightS9_2_3.560_9.440_9_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 9,
+      "activity_key": "fallsitting",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallSittingS9_1_1.540_5.000_9_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallSittingS9_1_1.540_5.000_9_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallSittingS9_2_5.000_10.800_9_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.9/FallSittingS9_4_0.000_1.540_9_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 10,
+      "activity_key": "hop",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/HopS10_9_0.000_12.400_10_1_caucafall.avi",
+      "candidate_count": 22,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/HopS10_9_0.000_12.400_10_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 10,
+      "activity_key": "kneel",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/KneelS10_7_10.982_13.042_10_1_caucafall.avi",
+      "candidate_count": 42,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/KneelS10_7_10.982_13.042_10_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/KneelS10_9_0.000_10.990_10_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 10,
+      "activity_key": "pickupobject",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/PickupobjectS10_0_0.000_1.640_10_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/PickupobjectS10_0_0.000_1.640_10_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/PickupobjectS10_8_11.839_12.779_10_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/PickupobjectS10_9_1.640_11.839_10_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/PickupobjectS10_9_12.779_14.599_10_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 10,
+      "activity_key": "sitdown",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/SitDownS10_0_0.000_1.540_10_1_caucafall.avi",
+      "candidate_count": 68,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/SitDownS10_0_0.000_1.540_10_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/SitDownS10_3_1.540_4.862_10_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/SitDownS10_4_4.862_9.549_10_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/SitDownS10_7_9.549_10.987_10_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/SitDownS10_8_10.987_11.700_10_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 10,
+      "activity_key": "walk",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/WalkS10_0_0.000_11.250_10_1_caucafall.avi",
+      "candidate_count": 24,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/WalkS10_0_0.000_11.250_10_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 10,
+      "activity_key": "fallbackwards",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallBackwardsS10_1_1.910_4.410_10_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallBackwardsS10_1_1.910_4.410_10_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallBackwardsS10_2_4.410_13.690_10_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallBackwardsS10_8_0.000_1.910_10_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 10,
+      "activity_key": "fallforward",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallForwardS10_0_0.000_0.860_10_1_caucafall.avi",
+      "candidate_count": 58,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallForwardS10_0_0.000_0.860_10_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallForwardS10_1_0.860_3.560_10_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallForwardS10_2_3.560_12.140_10_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 10,
+      "activity_key": "fallleft",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallLeftS10_1_0.970_3.350_10_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallLeftS10_1_0.970_3.350_10_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallLeftS10_2_3.350_10.590_10_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallLeftS10_8_0.000_0.970_10_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 10,
+      "activity_key": "fallright",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallRightS10_1_2.270_4.410_10_1_caucafall.avi",
+      "candidate_count": 64,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallRightS10_1_2.270_4.410_10_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallRightS10_2_4.410_10.090_10_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallRightS10_8_0.000_2.270_10_1_caucafall.avi"
+      ]
+    },
+    {
+      "subject": 10,
+      "activity_key": "fallsitting",
+      "selected": "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallSittingS10_1_1.850_4.450_10_1_caucafall.avi",
+      "candidate_count": 60,
+      "best_score": 7230,
+      "top_equivalent_candidates": [
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallSittingS10_1_1.850_4.450_10_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallSittingS10_2_4.450_14.390_10_1_caucafall.avi",
+        "/content/fall_detection_work/CAUCAFall/Cauca_fall/clips/Subject.10/FallSittingS10_4_0.000_1.850_10_1_caucafall.avi"
+      ]
+    }
+  ],
+  "unresolved_logical_keys": [],
+  "label_space": "OmniFall staged classes 0-15; binary fall={1:fall,2:fallen}",
+  "time_policy": "use OmniFall annotation start/end directly"
+}

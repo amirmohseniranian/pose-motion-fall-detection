@@ -1,0 +1,137 @@
+{
+  "seed": 20260903,
+  "timestamp_utc": "2026-09-03T18:59:03Z",
+  "runtime_seconds_total_measured": 2643.657244205475,
+  "runtime_target_seconds": 10800,
+  "runtime_hard_ceiling_seconds": 13788.0,
+  "gpu_operational_vram_limit_gib": 13.5,
+  "project_root": "/content/drive/MyDrive/fall_detection_project",
+  "dataset_configs": {
+    "MCFD": {
+      "record_id": "17170592",
+      "filename": "MCFD.zip",
+      "expected_md5": "b365b5a4b16691fce3fc09ccd554df79",
+      "binary_provenance": "Zenodo repack of MCFD",
+      "original_source": "https://www.iro.umontreal.ca/~labimage/Dataset/",
+      "citation": "Auvinet et al., Multiple cameras fall dataset, DIRO, Universit\u00e9 de Montr\u00e9al.",
+      "license_note": "Check the original MCFD distribution terms. The Zenodo repack is a distribution convenience, not a new license grant."
+    },
+    "GMDCSA24": {
+      "record_id": "13354453",
+      "filename": "ekramalam/GMDCSA24-A-Dataset-for-Human-Fall-Detection-in-Videos-v2.1.zip",
+      "expected_md5": "3d36f2c5c1a666b99639e4e9fd843efb",
+      "binary_provenance": "Official Zenodo v2.1 release",
+      "original_source": "https://github.com/ekramalam/GMDCSA24-A-Dataset-for-Human-Fall-Detection-in-Videos",
+      "citation": "Alam, Sufian, Dutta, Leo & Hameed, GMDCSA-24, Data in Brief, 2024.",
+      "license_note": "Zenodo/OpenAIRE metadata indicate CC BY for the dataset; verify archive-level rights before redistribution."
+    },
+    "CAUCAFall": {
+      "record_id": "17170592",
+      "filename": "Cauca_fall.zip",
+      "expected_md5": "5a1899fe0022c9c4c0d37ce64ac0c986",
+      "binary_provenance": "Versioned Zenodo repack used only for Colab portability",
+      "original_source": "https://data.mendeley.com/datasets/7w7fccy7ky/5",
+      "citation": "Eraso, Mu\u00f1oz, Mu\u00f1oz & Pinto, Dataset CAUCAFall, Mendeley Data v5, 2025.",
+      "license_note": "Original Mendeley v5 is CC BY 4.0. Repack provenance must still be cited separately."
+    }
+  },
+  "train_datasets": [
+    "MCFD",
+    "GMDCSA24"
+  ],
+  "external_test_datasets": [
+    "CAUCAFall"
+  ],
+  "architecture": {
+    "pose_model": "yolo11n-pose.pt",
+    "pose_image_size": 640,
+    "pose_infer_batch": 32,
+    "pose_fp16": true,
+    "pose_frozen": true,
+    "keypoints": 17,
+    "sequence_length": 32,
+    "channels": [
+      "x",
+      "y",
+      "confidence",
+      "velocity_x",
+      "velocity_y",
+      "acceleration_x",
+      "acceleration_y",
+      "speed_magnitude"
+    ],
+    "stgcn_hidden": 48,
+    "tcn_hidden": 48,
+    "attention_heads": 2
+  },
+  "training": {
+    "T": 32,
+    "batch_size": 64,
+    "epochs": 18,
+    "patience": 4,
+    "lr": 0.0003,
+    "weight_decay": 0.0001,
+    "dropout": 0.2,
+    "grad_clip": 1.0,
+    "num_workers": 2,
+    "use_weighted_sampler": false,
+    "use_pos_weight": false,
+    "threshold_grid": [
+      0.2,
+      0.225,
+      0.25,
+      0.275,
+      0.3,
+      0.325,
+      0.35,
+      0.375,
+      0.4,
+      0.425,
+      0.45,
+      0.475,
+      0.5,
+      0.525,
+      0.55,
+      0.575,
+      0.6,
+      0.625,
+      0.65,
+      0.675,
+      0.7,
+      0.725,
+      0.75,
+      0.775,
+      0.8
+    ],
+    "checkpoint_metric": "val_accuracy"
+  },
+  "split_protocol": {
+    "GMDCSA24": "Subject_1/2 train, Subject_3 validation, Subject_4 test",
+    "MCFD": "versioned OmniFall cross-view split (cv); report strictly as view-shift, not subject-independent",
+    "CAUCAFall": "external test only; no tuning"
+  },
+  "counts": {
+    "manifest_rows": 2068,
+    "trainval_pose_rows": 703,
+    "train": 410,
+    "val": 293,
+    "heldout_test_pose_rows": 1107,
+    "test": 1107,
+    "external_caucafall_pose_rows": 130
+  },
+  "system": {
+    "python": "3.13.15 (main, Aug  6 2026, 11:06:23) [GCC 11.4.0]",
+    "pytorch": "2.11.0+cu128",
+    "cuda": "12.8",
+    "ultralytics": "8.3.176",
+    "opencv": "5.0.0",
+    "gpu": "Tesla T4",
+    "gpu_peak_allocated_gib": 0.328,
+    "gpu_peak_reserved_gib": 0.535
+  },
+  "chosen_model": "B_position_velocity",
+  "selection_rule": "max validation calibrated Accuracy; among models within 0.002 Accuracy points of the maximum, prefer higher validation F1, then lower validation false-positive rate, then fewer parameters",
+  "final_threshold": 0.55,
+  "budget_file": "/content/drive/MyDrive/fall_detection_project/metadata/budget_state.json",
+  "budget_decisions_file": "/content/drive/MyDrive/fall_detection_project/metadata/budget_decisions.jsonl"
+}

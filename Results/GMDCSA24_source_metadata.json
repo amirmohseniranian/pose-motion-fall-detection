@@ -1,0 +1,20 @@
+{
+  "record_id": "13354453",
+  "filename": "ekramalam/GMDCSA24-A-Dataset-for-Human-Fall-Detection-in-Videos-v2.1.zip",
+  "expected_md5": "3d36f2c5c1a666b99639e4e9fd843efb",
+  "binary_provenance": "Official Zenodo v2.1 release",
+  "original_source": "https://github.com/ekramalam/GMDCSA24-A-Dataset-for-Human-Fall-Detection-in-Videos",
+  "citation": "Alam, Sufian, Dutta, Leo & Hameed, GMDCSA-24, Data in Brief, 2024.",
+  "license_note": "Zenodo/OpenAIRE metadata indicate CC BY for the dataset; verify archive-level rights before redistribution.",
+  "key": "ekramalam/GMDCSA24-A-Dataset-for-Human-Fall-Detection-in-Videos-v2.1.zip",
+  "size": 1107545615,
+  "checksum": "md5:3d36f2c5c1a666b99639e4e9fd843efb",
+  "download": "https://zenodo.org/api/records/13354453/files/ekramalam/GMDCSA24-A-Dataset-for-Human-Fall-Detection-in-Videos-v2.1.zip/content",
+  "record_title": "ekramalam/GMDCSA24-A-Dataset-for-Human-Fall-Detection-in-Videos: 2.1",
+  "record_version": "v2.1",
+  "local_path": "/content/drive/MyDrive/fall_detection_project/datasets_zips/GMDCSA24-A-Dataset-for-Human-Fall-Detection-in-Videos-v2.1.zip",
+  "local_bytes": 1107545615,
+  "local_md5": "3d36f2c5c1a666b99639e4e9fd843efb",
+  "verified": true,
+  "source": "fresh_verified_download"
+}

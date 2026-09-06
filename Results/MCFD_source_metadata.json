@@ -1,0 +1,20 @@
+{
+  "record_id": "17170592",
+  "filename": "MCFD.zip",
+  "expected_md5": "b365b5a4b16691fce3fc09ccd554df79",
+  "binary_provenance": "Zenodo repack of MCFD",
+  "original_source": "https://www.iro.umontreal.ca/~labimage/Dataset/",
+  "citation": "Auvinet et al., Multiple cameras fall dataset, DIRO, Universit\u00e9 de Montr\u00e9al.",
+  "license_note": "Check the original MCFD distribution terms. The Zenodo repack is a distribution convenience, not a new license grant.",
+  "key": "MCFD.zip",
+  "size": 2803136235,
+  "checksum": "md5:b365b5a4b16691fce3fc09ccd554df79",
+  "download": "https://zenodo.org/api/records/17170592/files/MCFD.zip/content",
+  "record_title": "Fall actions datasets based omnifall classes",
+  "record_version": "1.0",
+  "local_path": "/content/drive/MyDrive/fall_detection_project/datasets_zips/MCFD.zip",
+  "local_bytes": 2803136235,
+  "local_md5": "b365b5a4b16691fce3fc09ccd554df79",
+  "verified": true,
+  "source": "fresh_verified_download"
+}

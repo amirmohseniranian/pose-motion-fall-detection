@@ -1,0 +1,40 @@
+{
+  "extracted_root": "/content/fall_detection_work/GMDCSA24",
+  "physical_video_files_found": 160,
+  "canonical_video_keys_found": 160,
+  "unkeyed_physical_videos": 0,
+  "physical_duplicate_key_count": 0,
+  "physical_duplicate_keys": {},
+  "expected_physical_video_count": 160,
+  "omnifall_label_rows": 458,
+  "resolved_manifest_rows": 458,
+  "missing_video_rows": 0,
+  "malformed_rows": 0,
+  "missing_video_examples": [],
+  "malformed_examples": [],
+  "label_counts": {
+    "0": 303,
+    "1": 155
+  },
+  "source_label_counts": {
+    "0": 65,
+    "1": 78,
+    "2": 77,
+    "3": 22,
+    "4": 63,
+    "5": 13,
+    "6": 14,
+    "7": 17,
+    "8": 37,
+    "9": 72
+  },
+  "subject_counts": {
+    "Subject_1": 89,
+    "Subject_2": 152,
+    "Subject_3": 124,
+    "Subject_4": 93
+  },
+  "time_policy": "use OmniFall annotation start/end directly",
+  "identity_policy": "subject + ADL/Fall partition + filename stem",
+  "split_policy": "subject-aware split applied later by add_splits()"
+}

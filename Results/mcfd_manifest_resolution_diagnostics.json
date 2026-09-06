@@ -1,0 +1,1612 @@
+{
+  "extracted_root": "/content/fall_detection_work/MCFD",
+  "physical_video_files_found": 1352,
+  "canonical_camera_keys_found": 192,
+  "unkeyed_physical_videos": 0,
+  "physical_duplicate_keys": {
+    "chute1/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam1_0_28.133_33.237_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam1_0_47.486_48.612_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam1_0_50.445_51.485_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam1_1_35.537_37.549_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam1_2_37.549_41.903_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam1_7_41.903_47.487_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam1_9_33.269_35.505_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam1_9_48.611_50.445_1_1_mcfd.avi"
+    ],
+    "chute1/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam2_0_28.133_33.237_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam2_0_47.486_48.612_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam2_0_50.445_51.485_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam2_1_35.537_37.549_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam2_2_37.549_41.903_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam2_7_41.903_47.487_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam2_9_33.269_35.505_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam2_9_48.611_50.445_1_2_mcfd.avi"
+    ],
+    "chute1/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam3_0_28.299_33.404_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam3_0_47.653_48.778_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam3_0_50.612_51.652_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam3_1_35.704_37.716_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam3_2_37.716_42.070_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam3_7_42.070_47.653_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam3_9_33.436_35.672_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam3_9_48.778_50.612_1_3_mcfd.avi"
+    ],
+    "chute1/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam4_0_28.166_33.271_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam4_0_47.520_48.645_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam4_0_50.479_51.519_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam4_1_35.571_37.583_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam4_2_37.583_41.937_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam4_7_41.937_47.520_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam4_9_33.303_35.539_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam4_9_48.645_50.478_1_4_mcfd.avi"
+    ],
+    "chute1/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam5_0_28.799_33.904_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam5_0_48.153_49.278_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam5_0_51.112_52.152_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam5_1_36.204_38.216_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam5_2_38.216_42.570_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam5_7_42.570_48.153_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam5_9_33.936_36.172_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam5_9_49.278_51.112_1_5_mcfd.avi"
+    ],
+    "chute1/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam6_0_28.799_33.904_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam6_0_48.153_49.278_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam6_0_51.112_52.152_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam6_1_36.204_38.216_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam6_2_38.216_42.570_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam6_7_42.570_48.153_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam6_9_33.936_36.172_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam6_9_49.278_51.112_1_6_mcfd.avi"
+    ],
+    "chute1/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam7_0_28.233_33.337_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam7_0_47.586_48.712_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam7_0_50.545_51.585_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam7_1_35.637_37.649_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam7_2_37.649_42.003_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam7_7_42.003_47.587_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam7_9_33.369_35.605_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam7_9_48.711_50.545_1_7_mcfd.avi"
+    ],
+    "chute1/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam8_0_28.033_33.137_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam8_0_47.386_48.512_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam8_0_50.345_51.385_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam8_1_35.437_37.449_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam8_2_37.449_41.803_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam8_7_41.803_47.387_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam8_9_33.169_35.405_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute01_cam8_9_48.511_50.345_1_8_mcfd.avi"
+    ],
+    "chute2/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam1_0_10.970_13.823_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam1_0_27.803_28.200_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam1_1_13.855_15.908_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam1_2_15.907_24.678_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam1_7_24.678_27.803_1_1_mcfd.avi"
+    ],
+    "chute2/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam2_0_11.470_14.323_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam2_0_28.303_28.700_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam2_1_14.355_16.408_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam2_2_16.407_25.178_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam2_7_25.178_28.303_1_2_mcfd.avi"
+    ],
+    "chute2/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam3_0_10.137_12.990_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam3_0_26.970_27.367_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam3_1_13.022_15.074_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam3_2_15.074_23.845_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam3_7_23.845_26.970_1_3_mcfd.avi"
+    ],
+    "chute2/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam4_0_10.670_13.523_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam4_0_27.503_27.900_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam4_1_13.555_15.608_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam4_2_15.607_24.378_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam4_7_24.378_27.503_1_4_mcfd.avi"
+    ],
+    "chute2/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam5_0_10.737_13.590_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam5_0_27.570_27.967_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam5_1_13.622_15.674_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam5_2_15.674_24.445_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam5_7_24.445_27.570_1_5_mcfd.avi"
+    ],
+    "chute2/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam6_0_10.737_13.590_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam6_0_27.570_27.967_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam6_1_13.622_15.674_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam6_2_15.674_24.445_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam6_7_24.445_27.570_1_6_mcfd.avi"
+    ],
+    "chute2/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam7_0_11.237_14.090_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam7_0_28.070_28.467_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam7_1_14.122_16.174_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam7_2_16.174_24.945_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam7_7_24.945_28.070_1_7_mcfd.avi"
+    ],
+    "chute2/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam8_0_10.337_13.190_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam8_0_27.170_27.567_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam8_1_13.222_15.274_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam8_2_15.274_24.045_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute02_cam8_7_24.045_27.170_1_8_mcfd.avi"
+    ],
+    "chute3/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam1_0_12.012_19.581_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam1_1_19.613_22.345_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam1_2_22.345_28.012_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam1_7_28.011_30.783_1_1_mcfd.avi"
+    ],
+    "chute3/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam2_0_12.145_19.715_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam2_1_19.747_22.478_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam2_2_22.479_28.145_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam2_7_28.145_30.916_1_2_mcfd.avi"
+    ],
+    "chute3/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam3_0_11.878_19.448_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam3_1_19.480_22.212_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam3_2_22.212_27.878_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam3_7_27.878_30.649_1_3_mcfd.avi"
+    ],
+    "chute3/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam4_0_12.145_19.715_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam4_1_19.747_22.478_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam4_2_22.479_28.145_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam4_7_28.145_30.916_1_4_mcfd.avi"
+    ],
+    "chute3/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam5_0_12.778_20.348_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam5_1_20.380_23.112_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam5_2_23.112_28.778_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam5_7_28.778_31.549_1_5_mcfd.avi"
+    ],
+    "chute3/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam6_0_12.778_20.348_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam6_1_20.380_23.112_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam6_2_23.112_28.778_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam6_7_28.778_31.549_1_6_mcfd.avi"
+    ],
+    "chute3/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam7_0_12.278_19.848_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam7_1_19.880_22.612_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam7_2_22.612_28.278_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam7_7_28.278_31.049_1_7_mcfd.avi"
+    ],
+    "chute3/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam8_0_11.612_19.181_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam8_1_19.213_21.945_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam8_2_21.945_27.612_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute03_cam8_7_27.611_30.383_1_8_mcfd.avi"
+    ],
+    "chute4/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam1_0_9.953_12.521_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam1_0_33.411_35.429_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam1_1_12.521_13.870_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam1_1_22.786_24.495_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam1_2_13.870_14.953_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam1_2_24.495_29.787_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam1_7_14.953_22.787_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam1_7_29.786_33.412_1_1_mcfd.avi"
+    ],
+    "chute4/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam2_0_10.187_12.755_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam2_0_33.645_35.663_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam2_1_12.755_14.103_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam2_1_23.020_24.728_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam2_2_14.104_15.187_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam2_2_24.729_30.020_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam2_7_15.187_23.020_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam2_7_30.020_33.645_1_2_mcfd.avi"
+    ],
+    "chute4/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam3_0_10.153_12.721_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam3_0_33.611_35.629_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam3_1_12.721_14.070_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam3_1_22.986_24.695_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam3_2_14.070_15.153_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam3_2_24.695_29.987_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam3_7_15.153_22.987_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam3_7_29.986_33.612_1_3_mcfd.avi"
+    ],
+    "chute4/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam4_0_7.553_10.121_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam4_0_31.011_33.029_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam4_1_10.121_11.470_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam4_1_20.386_22.095_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam4_2_11.470_12.553_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam4_2_22.095_27.387_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam4_7_12.553_20.387_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam4_7_27.386_31.012_1_4_mcfd.avi"
+    ],
+    "chute4/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam5_0_9.820_12.388_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam5_0_33.278_35.296_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam5_1_12.388_13.737_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam5_1_22.653_24.362_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam5_2_13.737_14.820_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam5_2_24.362_29.653_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam5_7_14.820_22.653_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam5_7_29.653_33.278_1_5_mcfd.avi"
+    ],
+    "chute4/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam6_0_9.820_12.388_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam6_0_33.278_35.296_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam6_1_12.388_13.737_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam6_1_22.653_24.362_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam6_2_13.737_14.820_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam6_2_24.362_29.653_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam6_7_14.820_22.653_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam6_7_29.653_33.278_1_6_mcfd.avi"
+    ],
+    "chute4/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam7_0_10.320_12.888_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam7_0_33.778_35.796_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam7_1_12.888_14.237_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam7_1_23.153_24.862_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam7_2_14.237_15.320_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam7_2_24.862_30.153_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam7_7_15.320_23.153_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam7_7_30.153_33.778_1_7_mcfd.avi"
+    ],
+    "chute4/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam8_0_9.420_11.988_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam8_0_32.878_34.896_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam8_1_11.988_13.337_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam8_1_22.253_23.962_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam8_2_13.337_14.420_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam8_2_23.962_29.253_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam8_7_14.420_22.253_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute04_cam8_7_29.253_32.878_1_8_mcfd.avi"
+    ],
+    "chute5/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam1_0_9.766_10.613_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam1_1_10.649_12.891_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam1_2_12.891_15.281_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam1_7_15.281_21.203_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam1_9_21.204_25.826_1_1_mcfd.avi"
+    ],
+    "chute5/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam2_0_9.999_10.846_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam2_1_10.882_13.124_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam2_2_13.124_15.514_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam2_7_15.514_21.437_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam2_9_21.437_26.059_1_2_mcfd.avi"
+    ],
+    "chute5/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam3_0_9.366_10.213_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam3_1_10.249_12.491_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam3_2_12.491_14.881_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam3_7_14.881_20.803_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam3_9_20.804_25.426_1_3_mcfd.avi"
+    ],
+    "chute5/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam4_0_9.566_10.413_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam4_1_10.449_12.691_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam4_2_12.691_15.081_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam4_7_15.081_21.003_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam4_9_21.004_25.626_1_4_mcfd.avi"
+    ],
+    "chute5/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam5_0_9.799_10.646_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam5_1_10.682_12.924_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam5_2_12.924_15.314_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam5_7_15.314_21.237_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam5_9_21.237_25.859_1_5_mcfd.avi"
+    ],
+    "chute5/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam6_0_9.799_10.646_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam6_1_10.682_12.924_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam6_2_12.924_15.314_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam6_7_15.314_21.237_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam6_9_21.237_25.859_1_6_mcfd.avi"
+    ],
+    "chute5/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam7_0_10.066_10.913_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam7_1_10.949_13.191_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam7_2_13.191_15.581_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam7_7_15.581_21.503_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam7_9_21.504_26.126_1_7_mcfd.avi"
+    ],
+    "chute5/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam8_0_10.133_10.979_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam8_1_11.015_13.258_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam8_2_13.257_15.647_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam8_7_15.647_21.570_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute05_cam8_9_21.570_26.193_1_8_mcfd.avi"
+    ],
+    "chute6/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam1_0_10.999_19.935_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam1_1_19.967_22.353_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam1_2_22.353_38.978_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam1_7_38.978_42.329_1_1_mcfd.avi"
+    ],
+    "chute6/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam2_0_14.333_23.269_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam2_1_23.301_25.687_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam2_2_25.687_42.312_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam2_7_42.312_45.663_1_2_mcfd.avi"
+    ],
+    "chute6/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam3_0_14.533_23.469_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam3_1_23.501_25.887_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam3_2_25.887_42.512_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam3_7_42.512_45.863_1_3_mcfd.avi"
+    ],
+    "chute6/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam4_0_13.999_22.935_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam4_1_22.967_25.353_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam4_2_25.353_41.978_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam4_7_41.978_45.329_1_4_mcfd.avi"
+    ],
+    "chute6/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam5_0_13.966_22.902_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam5_1_22.934_25.320_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam5_2_25.320_41.945_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam5_7_41.945_45.296_1_5_mcfd.avi"
+    ],
+    "chute6/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam6_0_13.966_22.902_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam6_1_22.934_25.320_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam6_2_25.320_41.945_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam6_7_41.945_45.296_1_6_mcfd.avi"
+    ],
+    "chute6/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam7_0_14.466_23.402_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam7_1_23.434_25.820_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam7_2_25.820_42.445_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam7_7_42.445_45.796_1_7_mcfd.avi"
+    ],
+    "chute6/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam8_0_13.966_22.902_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam8_1_22.934_25.320_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam8_2_25.320_41.945_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute06_cam8_7_41.945_45.296_1_8_mcfd.avi"
+    ],
+    "chute7/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam1_0_11.741_17.310_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam1_1_17.346_19.491_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam1_1_28.637_29.928_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam1_2_19.491_24.990_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam1_7_24.990_28.637_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam1_7_29.928_31.384_1_1_mcfd.avi"
+    ],
+    "chute7/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam2_0_11.274_16.843_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam2_1_16.879_19.024_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam2_1_28.170_29.462_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam2_2_19.024_24.523_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam2_7_24.523_28.170_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam2_7_29.461_30.918_1_2_mcfd.avi"
+    ],
+    "chute7/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam3_0_11.341_16.910_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam3_1_16.946_19.091_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam3_1_28.237_29.528_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam3_2_19.091_24.590_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam3_7_24.590_28.237_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam3_7_29.528_30.984_1_3_mcfd.avi"
+    ],
+    "chute7/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam4_0_10.808_16.377_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam4_1_16.413_18.558_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam4_1_27.704_28.995_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam4_2_18.558_24.057_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam4_7_24.057_27.703_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam4_7_28.995_30.451_1_4_mcfd.avi"
+    ],
+    "chute7/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam5_0_10.841_16.410_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam5_1_16.446_18.591_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam5_1_27.737_29.028_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam5_2_18.591_24.090_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam5_7_24.090_27.737_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam5_7_29.028_30.484_1_5_mcfd.avi"
+    ],
+    "chute7/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam6_0_10.841_16.410_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam6_1_16.446_18.591_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam6_1_27.737_29.028_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam6_2_18.591_24.090_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam6_7_24.090_27.737_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam6_7_29.028_30.484_1_6_mcfd.avi"
+    ],
+    "chute7/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam7_0_11.408_16.977_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam7_1_17.013_19.158_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam7_1_28.304_29.595_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam7_2_19.158_24.657_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam7_7_24.657_28.303_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam7_7_29.595_31.051_1_7_mcfd.avi"
+    ],
+    "chute7/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam8_0_11.474_17.043_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam8_1_17.079_19.224_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam8_1_28.370_29.662_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam8_2_19.224_24.723_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam8_7_24.723_28.370_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute07_cam8_7_29.661_31.118_1_8_mcfd.avi"
+    ],
+    "chute8/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam1_0_7.878_12.687_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam1_0_23.295_24.315_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam1_1_12.719_14.087_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam1_2_14.086_16.355_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam1_7_16.355_23.295_1_1_mcfd.avi"
+    ],
+    "chute8/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam2_0_7.445_12.254_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam2_0_22.862_23.882_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam2_1_12.286_13.653_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam2_2_13.653_15.922_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam2_7_15.922_22.862_1_2_mcfd.avi"
+    ],
+    "chute8/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam3_0_4.812_9.621_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam3_1_9.653_11.020_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam3_0_20.229_21.249_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam3_2_11.020_13.289_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam3_7_13.289_20.228_1_3_mcfd.avi"
+    ],
+    "chute8/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam4_0_7.512_12.321_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam4_0_22.929_23.949_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam4_1_12.353_13.720_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam4_2_13.720_15.989_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam4_7_15.989_22.928_1_4_mcfd.avi"
+    ],
+    "chute8/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam5_0_6.945_11.754_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam5_0_22.362_23.382_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam5_1_11.786_13.153_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam5_2_13.153_15.422_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam5_7_15.422_22.362_1_5_mcfd.avi"
+    ],
+    "chute8/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam6_0_6.945_11.754_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam6_0_22.362_23.382_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam6_1_11.786_13.153_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam6_2_13.153_15.422_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam6_7_15.422_22.362_1_6_mcfd.avi"
+    ],
+    "chute8/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam7_0_7.545_12.354_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam7_0_22.962_23.982_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam7_1_12.386_13.753_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam7_2_13.753_16.022_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam7_7_16.022_22.962_1_7_mcfd.avi"
+    ],
+    "chute8/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam8_0_6.678_11.487_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam8_0_22.095_23.115_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam8_1_11.519_12.887_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam8_2_12.886_15.155_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute08_cam8_7_15.155_22.095_1_8_mcfd.avi"
+    ],
+    "chute9/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam1_0_10.216_16.273_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam1_1_16.309_17.373_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam1_1_21.473_22.903_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam1_2_22.904_28.299_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam1_4_17.409_19.741_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam1_7_19.773_21.441_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam1_7_28.300_31.028_1_1_mcfd.avi"
+    ],
+    "chute9/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam2_0_9.916_15.973_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam2_1_16.009_17.073_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam2_1_21.173_22.603_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam2_2_22.604_27.999_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam2_4_17.109_19.441_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam2_7_19.473_21.141_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam2_7_28.000_30.728_1_2_mcfd.avi"
+    ],
+    "chute9/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam3_0_9.649_15.706_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam3_1_15.742_16.806_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam3_1_20.906_22.337_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam3_2_22.337_27.733_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam3_4_16.842_19.174_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam3_7_19.206_20.874_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam3_7_27.733_30.461_1_3_mcfd.avi"
+    ],
+    "chute9/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam4_0_10.249_16.306_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam4_1_16.342_17.406_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam4_1_21.506_22.937_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam4_2_22.937_28.333_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam4_4_17.442_19.774_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam4_7_19.806_21.474_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam4_7_28.333_31.061_1_4_mcfd.avi"
+    ],
+    "chute9/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam5_0_10.049_16.106_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam5_1_16.142_17.206_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam5_1_21.306_22.737_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam5_2_22.737_28.133_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam5_4_17.242_19.574_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam5_7_19.606_21.274_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam5_7_28.133_30.861_1_5_mcfd.avi"
+    ],
+    "chute9/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam6_0_10.049_16.106_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam6_1_16.142_17.206_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam6_1_21.306_22.737_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam6_2_22.737_28.133_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam6_4_17.242_19.574_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam6_7_19.606_21.274_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam6_7_28.133_30.861_1_6_mcfd.avi"
+    ],
+    "chute9/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam7_0_10.016_16.073_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam7_1_16.109_17.173_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam7_1_21.273_22.703_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam7_2_22.704_28.099_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam7_4_17.209_19.541_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam7_7_19.573_21.241_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam7_7_28.100_30.828_1_7_mcfd.avi"
+    ],
+    "chute9/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam8_0_9.616_15.673_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam8_1_15.709_16.773_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam8_1_20.873_22.303_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam8_2_22.304_27.699_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam8_4_16.809_19.141_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam8_7_19.173_20.841_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute09_cam8_7_27.700_30.428_1_8_mcfd.avi"
+    ],
+    "chute10/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam1_0_10.553_16.013_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam1_0_29.241_31.583_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam1_1_17.387_18.720_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam1_2_18.720_20.883_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam1_3_16.045_17.387_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam1_7_20.908_29.241_1_1_mcfd.avi"
+    ],
+    "chute10/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam2_0_10.587_16.046_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam2_0_29.274_31.617_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam2_1_17.420_18.753_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam2_2_18.753_20.917_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam2_3_16.078_17.420_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam2_7_20.941_29.274_1_2_mcfd.avi"
+    ],
+    "chute10/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam3_0_10.720_16.179_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam3_0_29.407_31.750_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam3_1_17.553_18.887_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam3_2_18.886_21.050_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam3_3_16.211_17.553_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam3_7_21.074_29.408_1_3_mcfd.avi"
+    ],
+    "chute10/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam4_0_11.187_16.646_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam4_0_29.874_32.217_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam4_1_18.020_19.353_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam4_2_19.353_21.517_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam4_3_16.678_18.020_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam4_7_21.541_29.874_1_4_mcfd.avi"
+    ],
+    "chute10/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam5_0_10.487_15.946_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam5_0_29.174_31.517_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam5_1_17.320_18.653_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam5_2_18.653_20.817_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam5_3_15.978_17.320_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam5_7_20.841_29.174_1_5_mcfd.avi"
+    ],
+    "chute10/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam6_0_10.487_15.946_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam6_0_29.174_31.517_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam6_1_17.320_18.653_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam6_2_18.653_20.817_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam6_3_15.978_17.320_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam6_7_20.841_29.174_1_6_mcfd.avi"
+    ],
+    "chute10/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam7_0_10.720_16.179_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam7_0_29.407_31.750_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam7_1_17.553_18.887_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam7_2_18.886_21.050_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam7_3_16.211_17.553_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam7_7_21.074_29.408_1_7_mcfd.avi"
+    ],
+    "chute10/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam8_0_10.087_15.546_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam8_0_28.774_31.117_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam8_1_16.920_18.253_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam8_2_18.253_20.417_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam8_3_15.578_16.920_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute10_cam8_7_20.441_28.774_1_8_mcfd.avi"
+    ],
+    "chute11/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam1_0_13.274_16.403_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam1_1_16.439_18.003_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam1_2_18.004_24.941_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam1_7_24.941_27.583_1_1_mcfd.avi"
+    ],
+    "chute11/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam2_0_12.641_15.769_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam2_1_15.805_17.370_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam2_2_17.370_24.308_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam2_7_24.307_26.949_1_2_mcfd.avi"
+    ],
+    "chute11/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam3_0_13.174_16.303_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam3_1_16.339_17.903_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam3_2_17.904_24.841_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam3_7_24.841_27.483_1_3_mcfd.avi"
+    ],
+    "chute11/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam4_0_12.974_16.103_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam4_1_16.139_17.703_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam4_2_17.704_24.641_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam4_7_24.641_27.283_1_4_mcfd.avi"
+    ],
+    "chute11/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam5_0_12.508_15.636_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam5_1_15.672_17.237_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam5_2_17.237_24.174_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam5_7_24.174_26.816_1_5_mcfd.avi"
+    ],
+    "chute11/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam6_0_12.508_15.636_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam6_1_15.672_17.237_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam6_2_17.237_24.174_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam6_7_24.174_26.816_1_6_mcfd.avi"
+    ],
+    "chute11/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam7_0_12.741_15.869_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam7_1_15.905_17.470_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam7_2_17.470_24.408_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam7_7_24.407_27.049_1_7_mcfd.avi"
+    ],
+    "chute11/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam8_0_12.908_16.036_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam8_1_16.072_17.637_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam8_2_17.637_24.574_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute11_cam8_7_24.574_27.216_1_8_mcfd.avi"
+    ],
+    "chute12/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam1_0_12.634_20.934_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam1_1_20.970_22.570_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam1_2_22.602_26.470_1_1_mcfd.avi"
+    ],
+    "chute12/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam2_0_12.134_20.434_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam2_1_20.470_22.070_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam2_2_22.102_25.970_1_2_mcfd.avi"
+    ],
+    "chute12/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam3_0_12.367_20.667_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam3_1_20.703_22.303_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam3_2_22.335_26.203_1_3_mcfd.avi"
+    ],
+    "chute12/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam4_0_12.201_20.501_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam4_1_20.537_22.137_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam4_2_22.169_26.037_1_4_mcfd.avi"
+    ],
+    "chute12/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam5_0_11.934_20.234_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam5_1_20.270_21.870_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam5_2_21.902_25.770_1_5_mcfd.avi"
+    ],
+    "chute12/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam6_0_11.934_20.234_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam6_1_20.270_21.870_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam6_2_21.902_25.770_1_6_mcfd.avi"
+    ],
+    "chute12/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam7_0_12.167_20.467_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam7_1_20.503_22.103_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam7_2_22.135_26.003_1_7_mcfd.avi"
+    ],
+    "chute12/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam8_0_11.934_20.234_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam8_1_20.270_21.870_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute12_cam8_2_21.902_25.770_1_8_mcfd.avi"
+    ],
+    "chute13/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam1_0_10.583_14.883_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam1_1_14.919_16.419_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam1_1_27.983_29.319_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam1_2_29.351_32.551_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam1_6_21.783_23.891_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam1_7_23.891_27.951_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam1_9_16.451_21.751_1_1_mcfd.avi"
+    ],
+    "chute13/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam2_0_11.150_15.450_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam2_1_15.486_16.986_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam2_1_28.550_29.886_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam2_2_29.918_33.118_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam2_6_22.350_24.458_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam2_7_24.458_28.518_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam2_9_17.018_22.318_1_2_mcfd.avi"
+    ],
+    "chute13/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam3_0_10.050_14.350_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam3_1_14.386_15.886_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam3_1_27.450_28.786_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam3_2_28.818_32.018_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam3_6_21.250_23.358_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam3_7_23.358_27.418_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam3_9_15.918_21.218_1_3_mcfd.avi"
+    ],
+    "chute13/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam4_0_10.283_14.583_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam4_1_14.619_16.119_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam4_1_27.683_29.019_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam4_2_29.051_32.251_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam4_6_21.483_23.591_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam4_7_23.591_27.651_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam4_9_16.151_21.451_1_4_mcfd.avi"
+    ],
+    "chute13/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam5_0_10.950_15.250_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam5_1_15.286_16.786_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam5_1_28.350_29.686_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam5_2_29.718_32.918_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam5_6_22.150_24.258_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam5_7_24.258_28.318_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam5_9_16.818_22.118_1_5_mcfd.avi"
+    ],
+    "chute13/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam6_0_10.950_15.250_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam6_1_15.286_16.786_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam6_1_28.350_29.686_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam6_2_29.718_32.918_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam6_6_22.150_24.258_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam6_7_24.258_28.318_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam6_9_16.818_22.118_1_6_mcfd.avi"
+    ],
+    "chute13/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam7_0_11.250_15.550_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam7_1_15.586_17.086_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam7_1_28.650_29.986_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam7_2_30.018_33.218_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam7_6_22.450_24.558_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam7_7_24.558_28.618_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam7_9_17.118_22.418_1_7_mcfd.avi"
+    ],
+    "chute13/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam8_0_10.483_14.783_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam8_1_14.819_16.319_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam8_1_27.883_29.219_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam8_2_29.251_32.451_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam8_6_21.683_23.791_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam8_7_23.791_27.851_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute13_cam8_9_16.351_21.651_1_8_mcfd.avi"
+    ],
+    "chute14/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam1_0_14.053_20.153_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam1_1_20.185_21.321_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam1_1_34.621_35.753_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam1_2_35.785_38.821_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam1_6_21.353_28.278_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam1_7_28.279_34.585_1_1_mcfd.avi"
+    ],
+    "chute14/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam2_0_13.619_19.719_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam2_1_19.751_20.887_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam2_1_34.187_35.319_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam2_2_35.351_38.387_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam2_6_20.919_27.845_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam2_7_27.845_34.151_1_2_mcfd.avi"
+    ],
+    "chute14/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam3_0_13.686_19.786_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam3_1_19.818_20.954_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam3_1_34.254_35.386_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam3_2_35.418_38.454_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam3_6_20.986_27.912_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam3_7_27.912_34.218_1_3_mcfd.avi"
+    ],
+    "chute14/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam4_0_12.419_18.519_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam4_1_18.551_19.687_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam4_1_32.987_34.119_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam4_2_34.151_37.187_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam4_6_19.719_26.645_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam4_7_26.645_32.951_1_4_mcfd.avi"
+    ],
+    "chute14/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam5_0_13.386_19.486_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam5_1_19.518_20.654_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam5_1_33.954_35.086_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam5_2_35.118_38.154_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam5_6_20.686_27.612_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam5_7_27.612_33.918_1_5_mcfd.avi"
+    ],
+    "chute14/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam6_0_13.386_19.486_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam6_1_19.518_20.654_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam6_1_33.954_35.086_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam6_2_35.118_38.154_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam6_6_20.686_27.612_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam6_7_27.612_33.918_1_6_mcfd.avi"
+    ],
+    "chute14/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam7_0_12.653_18.753_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam7_1_18.785_19.921_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam7_1_33.221_34.353_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam7_2_34.385_37.421_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam7_6_19.953_26.878_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam7_7_26.879_33.185_1_7_mcfd.avi"
+    ],
+    "chute14/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam8_0_12.886_18.986_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam8_1_19.018_20.154_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam8_1_33.454_34.586_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam8_2_34.618_37.654_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam8_6_20.186_27.112_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute14_cam8_7_27.112_33.418_1_8_mcfd.avi"
+    ],
+    "chute15/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam1_0_12.827_16.927_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam1_1_16.959_18.395_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam1_1_25.895_26.959_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam1_2_26.995_29.727_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam1_4_18.427_21.727_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam1_7_21.759_25.859_1_1_mcfd.avi"
+    ],
+    "chute15/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam2_0_12.960_17.060_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam2_1_17.092_18.528_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam2_1_26.028_27.092_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam2_2_27.128_29.860_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam2_4_18.560_21.860_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam2_7_21.892_25.992_1_2_mcfd.avi"
+    ],
+    "chute15/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam3_0_12.960_17.060_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam3_1_17.092_18.528_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam3_1_26.028_27.092_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam3_2_27.128_29.860_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam3_4_18.560_21.860_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam3_7_21.892_25.992_1_3_mcfd.avi"
+    ],
+    "chute15/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam4_0_12.827_16.927_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam4_1_16.959_18.395_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam4_1_25.895_26.959_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam4_2_26.995_29.727_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam4_4_18.427_21.727_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam4_7_21.759_25.859_1_4_mcfd.avi"
+    ],
+    "chute15/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam5_0_13.460_17.560_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam5_1_17.592_19.028_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam5_1_26.528_27.592_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam5_2_27.628_30.360_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam5_4_19.060_22.360_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam5_7_22.392_26.492_1_5_mcfd.avi"
+    ],
+    "chute15/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam6_0_13.460_17.560_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam6_1_17.592_19.028_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam6_1_26.528_27.592_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam6_2_27.628_30.360_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam6_4_19.060_22.360_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam6_7_22.392_26.492_1_6_mcfd.avi"
+    ],
+    "chute15/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam7_0_13.093_17.193_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam7_1_17.225_18.661_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam7_1_26.161_27.225_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam7_2_27.261_29.993_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam7_4_18.693_21.993_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam7_7_22.025_26.125_1_7_mcfd.avi"
+    ],
+    "chute15/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam8_0_12.327_16.427_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam8_1_16.459_17.895_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam8_1_25.395_26.459_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam8_2_26.495_29.227_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam8_4_17.927_21.227_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute15_cam8_7_21.259_25.359_1_8_mcfd.avi"
+    ],
+    "chute16/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam1_0_13.341_15.841_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam1_1_23.041_25.041_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam1_1_30.373_32.005_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam1_2_32.041_34.005_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam1_4_25.073_27.905_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam1_7_27.941_30.341_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam1_9_15.873_19.605_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam1_9_19.641_23.005_1_1_mcfd.avi"
+    ],
+    "chute16/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam2_0_13.541_16.041_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam2_1_23.241_25.241_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam2_1_30.573_32.205_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam2_2_32.241_34.205_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam2_4_25.273_28.105_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam2_7_28.141_30.541_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam2_9_16.073_19.805_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam2_9_19.841_23.205_1_2_mcfd.avi"
+    ],
+    "chute16/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam3_0_12.574_15.074_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam3_1_22.274_24.274_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam3_1_29.606_31.238_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam3_2_31.274_33.238_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam3_4_24.306_27.138_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam3_7_27.174_29.574_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam3_9_15.106_18.838_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam3_9_18.874_22.238_1_3_mcfd.avi"
+    ],
+    "chute16/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam4_0_12.641_15.141_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam4_1_22.341_24.341_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam4_1_29.673_31.305_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam4_2_31.341_33.305_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam4_4_24.373_27.205_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam4_7_27.241_29.641_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam4_9_15.173_18.905_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam4_9_18.941_22.305_1_4_mcfd.avi"
+    ],
+    "chute16/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam5_0_12.974_15.474_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam5_1_22.674_24.674_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam5_1_30.006_31.638_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam5_2_31.674_33.638_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam5_4_24.706_27.538_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam5_7_27.574_29.974_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam5_9_15.506_19.238_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam5_9_19.274_22.638_1_5_mcfd.avi"
+    ],
+    "chute16/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam6_0_12.974_15.474_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam6_1_22.674_24.674_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam6_1_30.006_31.638_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam6_2_31.674_33.638_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam6_4_24.706_27.538_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam6_7_27.574_29.974_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam6_9_15.506_19.238_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam6_9_19.274_22.638_1_6_mcfd.avi"
+    ],
+    "chute16/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam7_0_12.674_15.174_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam7_1_22.374_24.374_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam7_1_29.706_31.338_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam7_2_31.374_33.338_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam7_4_24.406_27.238_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam7_7_27.274_29.674_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam7_9_15.206_18.938_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam7_9_18.974_22.338_1_7_mcfd.avi"
+    ],
+    "chute16/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam8_0_12.674_15.174_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam8_1_22.374_24.374_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam8_1_29.706_31.338_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam8_2_31.374_33.338_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam8_4_24.406_27.238_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam8_7_27.274_29.674_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam8_9_15.206_18.938_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute16_cam8_9_18.974_22.338_1_8_mcfd.avi"
+    ],
+    "chute17/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam1_0_8.735_10.867_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam1_1_15.735_18.067_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam1_1_24.699_26.035_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam1_2_26.067_29.035_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam1_4_18.099_20.437_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam1_7_20.437_24.667_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam1_9_10.899_13.299_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam1_9_13.335_15.699_1_1_mcfd.avi"
+    ],
+    "chute17/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam2_0_8.901_11.033_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam2_1_15.901_18.233_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam2_1_24.865_26.201_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam2_2_26.233_29.201_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam2_4_18.265_20.603_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam2_7_20.603_24.833_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam2_9_11.065_13.465_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam2_9_13.501_15.865_1_2_mcfd.avi"
+    ],
+    "chute17/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam3_0_8.535_10.667_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam3_1_15.535_17.867_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam3_1_24.499_25.835_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam3_2_25.867_28.835_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam3_4_17.899_20.237_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam3_7_20.237_24.467_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam3_9_10.699_13.099_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam3_9_13.135_15.499_1_3_mcfd.avi"
+    ],
+    "chute17/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam4_0_8.035_10.167_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam4_1_15.035_17.367_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam4_1_23.999_25.335_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam4_2_25.367_28.335_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam4_4_17.399_19.737_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam4_7_19.737_23.967_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam4_9_10.199_12.599_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam4_9_12.635_14.999_1_4_mcfd.avi"
+    ],
+    "chute17/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam5_0_8.368_10.500_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam5_1_15.368_17.700_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam5_1_24.332_25.668_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam5_2_25.700_28.668_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam5_4_17.732_20.070_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam5_7_20.070_24.300_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam5_9_10.532_12.932_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam5_9_12.968_15.332_1_5_mcfd.avi"
+    ],
+    "chute17/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam6_0_8.368_10.500_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam6_1_15.368_17.700_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam6_1_24.332_25.668_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam6_2_25.700_28.668_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam6_4_17.732_20.070_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam6_7_20.070_24.300_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam6_9_10.532_12.932_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam6_9_12.968_15.332_1_6_mcfd.avi"
+    ],
+    "chute17/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam7_0_9.001_11.133_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam7_1_16.001_18.333_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam7_1_24.965_26.301_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam7_2_26.333_29.301_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam7_4_18.365_20.703_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam7_7_20.703_24.933_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam7_9_11.165_13.565_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam7_9_13.601_15.965_1_7_mcfd.avi"
+    ],
+    "chute17/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam8_0_8.635_10.767_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam8_1_15.635_17.967_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam8_1_24.599_25.935_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam8_2_25.967_28.935_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam8_4_17.999_20.337_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam8_7_20.337_24.567_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam8_9_10.799_13.199_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute17_cam8_9_13.235_15.599_1_8_mcfd.avi"
+    ],
+    "chute18/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam1_0_14.204_16.772_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam1_1_23.204_24.204_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam1_2_24.240_28.840_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam1_3_16.804_18.504_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam1_4_18.540_21.840_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam1_7_21.872_23.172_1_1_mcfd.avi"
+    ],
+    "chute18/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam2_0_14.404_16.972_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam2_1_23.404_24.404_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam2_2_24.440_29.040_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam2_3_17.004_18.704_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam2_4_18.740_22.040_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam2_7_22.072_23.372_1_2_mcfd.avi"
+    ],
+    "chute18/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam3_0_13.771_16.339_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam3_1_22.771_23.771_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam3_2_23.807_28.407_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam3_3_16.371_18.071_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam3_4_18.107_21.407_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam3_7_21.439_22.739_1_3_mcfd.avi"
+    ],
+    "chute18/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam4_0_10.904_13.472_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam4_1_19.904_20.904_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam4_2_20.940_25.540_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam4_3_13.504_15.204_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam4_4_15.240_18.540_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam4_7_18.572_19.872_1_4_mcfd.avi"
+    ],
+    "chute18/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam5_0_13.704_16.272_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam5_1_22.704_23.704_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam5_2_23.740_28.340_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam5_3_16.304_18.004_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam5_4_18.040_21.340_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam5_7_21.372_22.672_1_5_mcfd.avi"
+    ],
+    "chute18/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam6_0_13.704_16.272_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam6_1_22.704_23.704_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam6_2_23.740_28.340_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam6_3_16.304_18.004_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam6_4_18.040_21.340_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam6_7_21.372_22.672_1_6_mcfd.avi"
+    ],
+    "chute18/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam7_0_14.537_17.105_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam7_1_23.537_24.537_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam7_2_24.573_29.173_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam7_3_17.137_18.837_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam7_4_18.873_22.173_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam7_7_22.205_23.505_1_7_mcfd.avi"
+    ],
+    "chute18/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam8_0_13.471_16.039_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam8_1_22.471_23.471_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam8_2_23.507_28.107_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam8_3_16.071_17.771_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam8_4_17.807_21.107_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute18_cam8_7_21.139_22.439_1_8_mcfd.avi"
+    ],
+    "chute19/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam1_0_9.953_18.053_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam1_1_18.085_21.453_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam1_2_21.485_27.121_1_1_mcfd.avi"
+    ],
+    "chute19/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam2_0_10.219_18.319_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam2_1_18.351_21.719_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam2_2_21.751_27.387_1_2_mcfd.avi"
+    ],
+    "chute19/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam3_0_9.853_17.953_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam3_1_17.985_21.353_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam3_2_21.385_27.021_1_3_mcfd.avi"
+    ],
+    "chute19/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam4_0_9.953_18.053_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam4_1_18.085_21.453_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam4_2_21.485_27.121_1_4_mcfd.avi"
+    ],
+    "chute19/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam5_0_9.486_17.586_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam5_1_17.618_20.986_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam5_2_21.018_26.654_1_5_mcfd.avi"
+    ],
+    "chute19/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam6_0_9.486_17.586_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam6_1_17.618_20.986_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam6_2_21.018_26.654_1_6_mcfd.avi"
+    ],
+    "chute19/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam7_0_9.319_17.419_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam7_1_17.451_20.819_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam7_2_20.851_26.487_1_7_mcfd.avi"
+    ],
+    "chute19/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam8_0_9.986_18.086_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam8_1_18.118_21.486_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute19_cam8_2_21.518_27.154_1_8_mcfd.avi"
+    ],
+    "chute20/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam1_0_10.668_18.768_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam1_1_18.804_23.036_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam1_2_23.068_27.304_1_1_mcfd.avi"
+    ],
+    "chute20/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam2_0_10.135_18.235_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam2_1_18.271_22.503_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam2_2_22.535_26.771_1_2_mcfd.avi"
+    ],
+    "chute20/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam3_0_9.935_18.035_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam3_1_18.071_22.303_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam3_2_22.335_26.571_1_3_mcfd.avi"
+    ],
+    "chute20/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam4_0_10.168_18.268_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam4_1_18.304_22.536_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam4_2_22.568_26.804_1_4_mcfd.avi"
+    ],
+    "chute20/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam5_0_10.168_18.268_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam5_1_18.304_22.536_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam5_2_22.568_26.804_1_5_mcfd.avi"
+    ],
+    "chute20/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam6_0_10.168_18.268_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam6_1_18.304_22.536_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam6_2_22.568_26.804_1_6_mcfd.avi"
+    ],
+    "chute20/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam7_0_10.001_18.101_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam7_1_18.137_22.369_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam7_2_22.401_26.637_1_7_mcfd.avi"
+    ],
+    "chute20/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam8_0_9.835_17.935_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam8_1_17.971_22.203_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute20_cam8_2_22.235_26.471_1_8_mcfd.avi"
+    ],
+    "chute21/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam1_0_14.637_19.082_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam1_0_40.533_41.067_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam1_1_30.322_32.014_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam1_2_32.014_36.991_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam1_3_19.082_21.790_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam1_4_21.822_27.990_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam1_7_28.022_30.290_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam1_7_36.991_40.533_1_1_mcfd.avi"
+    ],
+    "chute21/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam2_0_14.970_19.415_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam2_0_40.866_41.400_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam2_1_30.655_32.347_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam2_2_32.347_37.324_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam2_3_19.415_22.123_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam2_4_22.155_28.323_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam2_7_28.355_30.623_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam2_7_37.324_40.866_1_2_mcfd.avi"
+    ],
+    "chute21/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam3_0_14.703_19.149_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam3_0_40.600_41.134_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam3_1_30.389_32.081_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam3_2_32.081_37.058_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam3_3_19.149_21.857_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam3_4_21.889_28.057_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam3_7_28.089_30.357_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam3_7_37.058_40.599_1_3_mcfd.avi"
+    ],
+    "chute21/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam4_0_14.070_18.515_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam4_0_39.966_40.500_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam4_1_29.755_31.447_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam4_2_31.447_36.424_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam4_3_18.515_21.223_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam4_4_21.255_27.423_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam4_7_27.455_29.723_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam4_7_36.424_39.966_1_4_mcfd.avi"
+    ],
+    "chute21/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam5_0_14.237_18.682_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam5_0_40.133_40.667_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam5_1_29.922_31.614_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam5_2_31.614_36.591_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam5_3_18.682_21.390_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam5_4_21.422_27.590_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam5_7_27.622_29.890_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam5_7_36.591_40.133_1_5_mcfd.avi"
+    ],
+    "chute21/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam6_0_14.237_18.682_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam6_0_40.133_40.667_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam6_1_29.922_31.614_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam6_2_31.614_36.591_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam6_3_18.682_21.390_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam6_4_21.422_27.590_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam6_7_27.622_29.890_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam6_7_36.591_40.133_1_6_mcfd.avi"
+    ],
+    "chute21/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam7_0_15.037_19.482_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam7_0_40.933_41.467_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam7_1_30.722_32.414_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam7_2_32.414_37.391_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam7_3_19.482_22.190_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam7_4_22.222_28.390_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam7_7_28.422_30.690_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam7_7_37.391_40.933_1_7_mcfd.avi"
+    ],
+    "chute21/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam8_0_13.970_18.415_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam8_0_39.866_40.400_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam8_1_29.655_31.347_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam8_2_31.347_36.324_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam8_3_18.415_21.123_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam8_4_21.155_27.323_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam8_7_27.355_29.623_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute21_cam8_7_36.324_39.866_1_8_mcfd.avi"
+    ],
+    "chute22/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam1_0_10.085_19.329_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam1_0_36.261_36.733_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam1_1_25.365_27.409_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam1_2_27.409_30.797_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam1_3_19.365_22.629_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam1_4_22.665_24.365_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam1_7_24.397_25.329_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam1_7_30.797_36.262_1_1_mcfd.avi"
+    ],
+    "chute22/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam2_0_11.619_20.863_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam2_0_37.795_38.267_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam2_1_26.899_28.943_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam2_2_28.943_32.331_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam2_3_20.899_24.163_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam2_4_24.199_25.899_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam2_7_25.931_26.863_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam2_7_32.331_37.795_1_2_mcfd.avi"
+    ],
+    "chute22/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam3_0_11.785_21.029_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam3_0_37.961_38.433_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam3_1_27.065_29.109_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam3_2_29.109_32.497_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam3_3_21.065_24.329_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam3_4_24.365_26.065_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam3_7_26.097_27.029_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam3_7_32.497_37.962_1_3_mcfd.avi"
+    ],
+    "chute22/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam4_0_11.452_20.696_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam4_0_37.628_38.100_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam4_1_26.732_28.776_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam4_2_28.776_32.164_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam4_3_20.732_23.996_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam4_4_24.032_25.732_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam4_7_25.764_26.696_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam4_7_32.164_37.628_1_4_mcfd.avi"
+    ],
+    "chute22/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam5_0_11.852_21.096_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam5_0_38.028_38.500_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam5_1_27.132_29.176_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam5_2_29.176_32.564_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam5_3_21.132_24.396_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam5_4_24.432_26.132_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam5_7_26.164_27.096_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam5_7_32.564_38.028_1_5_mcfd.avi"
+    ],
+    "chute22/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam6_0_11.852_21.096_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam6_0_38.028_38.500_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam6_1_27.132_29.176_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam6_2_29.176_32.564_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam6_3_21.132_24.396_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam6_4_24.432_26.132_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam6_7_26.164_27.096_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam6_7_32.564_38.028_1_6_mcfd.avi"
+    ],
+    "chute22/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam7_0_11.652_20.896_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam7_0_37.828_38.300_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam7_1_26.932_28.976_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam7_2_28.976_32.364_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam7_3_20.932_24.196_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam7_4_24.232_25.932_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam7_7_25.964_26.896_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam7_7_32.364_37.828_1_7_mcfd.avi"
+    ],
+    "chute22/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam8_0_11.219_20.463_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam8_0_37.395_37.867_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam8_1_26.499_28.543_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam8_2_28.543_31.931_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam8_3_20.499_23.763_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam8_4_23.799_25.499_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam8_7_25.531_26.463_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute22_cam8_7_31.931_37.395_1_8_mcfd.avi"
+    ],
+    "chute23/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam1_0_12.393_18.373_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam1_0_18.993_21.574_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam1_0_24.345_50.512_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam1_0_55.345_57.762_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam1_0_62.605_88.262_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam1_1_50.511_51.941_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam1_5_88.261_91.533_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam1_6_91.532_93.928_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam1_7_51.941_55.345_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam1_8_18.393_18.993_1_1_mcfd.avi"
+    ],
+    "chute23/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam2_0_13.093_19.073_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam2_0_19.693_22.274_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam2_0_25.045_51.212_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam2_0_56.045_58.462_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam2_0_63.305_88.962_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam2_1_51.211_52.641_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam2_5_88.961_92.233_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam2_6_92.232_94.628_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam2_7_52.641_56.045_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam2_8_19.093_19.693_1_2_mcfd.avi"
+    ],
+    "chute23/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam3_0_13.093_19.073_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam3_0_19.693_22.274_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam3_0_25.045_51.212_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam3_0_56.045_58.462_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam3_0_63.305_88.962_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam3_1_51.211_52.641_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam3_5_88.961_92.233_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam3_6_92.232_94.628_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam3_7_52.641_56.045_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam3_8_19.093_19.693_1_3_mcfd.avi"
+    ],
+    "chute23/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam4_0_12.860_18.840_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam4_0_19.460_22.041_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam4_0_24.812_50.978_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam4_0_55.812_58.228_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam4_0_63.072_88.728_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam4_1_50.978_52.408_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam4_5_88.728_91.999_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam4_6_91.999_94.395_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam4_7_52.408_55.812_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam4_8_18.860_19.460_1_4_mcfd.avi"
+    ],
+    "chute23/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam5_0_13.160_19.140_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam5_0_19.760_22.341_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam5_0_25.112_51.278_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam5_0_56.112_58.528_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam5_0_63.372_89.028_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam5_1_51.278_52.708_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam5_5_89.028_92.299_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam5_6_92.299_94.695_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam5_7_52.708_56.112_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam5_8_19.160_19.760_1_5_mcfd.avi"
+    ],
+    "chute23/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam6_0_13.160_19.140_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam6_0_19.760_22.341_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam6_0_25.112_51.278_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam6_0_56.112_58.528_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam6_0_63.372_89.028_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam6_1_51.278_52.708_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam6_5_89.028_92.299_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam6_6_92.299_94.695_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam6_7_52.708_56.112_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam6_8_19.160_19.760_1_6_mcfd.avi"
+    ],
+    "chute23/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam7_0_13.027_19.007_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam7_0_19.627_22.208_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam7_0_24.979_51.145_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam7_0_55.979_58.395_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam7_0_63.239_88.895_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam7_1_51.145_52.575_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam7_5_88.895_92.166_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam7_6_92.166_94.562_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam7_7_52.575_55.978_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam7_8_19.027_19.627_1_7_mcfd.avi"
+    ],
+    "chute23/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam8_0_11.360_17.340_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam8_0_17.960_20.541_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam8_0_23.312_49.478_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam8_0_54.312_56.728_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam8_0_61.572_87.228_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam8_1_49.478_50.908_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam8_5_87.228_90.499_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam8_6_90.499_92.895_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam8_7_50.908_54.312_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute23_cam8_8_17.360_17.960_1_8_mcfd.avi"
+    ],
+    "chute24/cam1": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam1_0_10.015_31.675_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam1_9_31.707_43.039_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam1_9_43.075_47.539_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam1_9_47.575_57.539_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam1_9_57.575_62.007_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam1_9_62.039_82.207_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam1_9_82.239_85.439_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam1_9_85.475_100.539_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam1_0_103.407_107.307_1_1_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam1_0_107.339_110.975_1_1_mcfd.avi"
+    ],
+    "chute24/cam2": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam2_0_11.115_32.775_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam2_9_32.807_44.139_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam2_9_44.175_48.639_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam2_9_48.675_58.639_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam2_9_58.675_63.107_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam2_9_63.139_83.307_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam2_9_83.339_86.539_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam2_9_86.575_101.639_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam2_0_104.507_108.407_1_2_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam2_0_108.439_112.075_1_2_mcfd.avi"
+    ],
+    "chute24/cam3": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam3_0_10.148_31.808_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam3_9_31.840_43.172_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam3_9_43.208_47.672_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam3_9_47.708_57.672_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam3_9_57.708_62.140_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam3_9_62.172_82.340_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam3_9_82.372_85.572_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam3_9_85.608_100.672_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam3_0_103.540_107.440_1_3_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam3_0_107.472_111.108_1_3_mcfd.avi"
+    ],
+    "chute24/cam4": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam4_0_9.915_31.575_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam4_9_31.607_42.939_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam4_9_42.975_47.439_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam4_9_47.475_57.439_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam4_9_57.475_61.907_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam4_9_61.939_82.107_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam4_9_82.139_85.339_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam4_9_85.375_100.439_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam4_0_103.307_107.207_1_4_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam4_0_107.239_110.875_1_4_mcfd.avi"
+    ],
+    "chute24/cam5": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam5_0_11.148_32.808_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam5_9_32.840_44.172_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam5_9_44.208_48.672_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam5_9_48.708_58.672_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam5_9_58.708_63.140_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam5_9_63.172_83.340_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam5_9_83.372_86.572_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam5_9_86.608_101.672_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam5_0_104.540_108.440_1_5_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam5_0_108.472_112.108_1_5_mcfd.avi"
+    ],
+    "chute24/cam6": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam6_0_11.148_32.808_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam6_9_32.840_44.172_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam6_9_44.208_48.672_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam6_9_48.708_58.672_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam6_9_58.708_63.140_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam6_9_63.172_83.340_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam6_9_83.372_86.572_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam6_9_86.608_101.672_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam6_0_104.540_108.440_1_6_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam6_0_108.472_112.108_1_6_mcfd.avi"
+    ],
+    "chute24/cam7": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam7_0_11.015_32.675_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam7_9_32.707_44.039_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam7_9_44.075_48.539_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam7_9_48.575_58.539_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam7_9_58.575_63.007_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam7_9_63.039_83.207_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam7_9_83.239_86.439_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam7_9_86.475_101.539_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam7_0_104.407_108.307_1_7_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam7_0_108.339_111.975_1_7_mcfd.avi"
+    ],
+    "chute24/cam8": [
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam8_0_9.948_31.608_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam8_9_31.640_42.972_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam8_9_43.008_47.472_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam8_9_47.508_57.472_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam8_9_57.508_61.940_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam8_9_61.972_82.140_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam8_9_82.172_85.372_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam8_9_85.408_100.472_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam8_0_103.340_107.240_1_8_mcfd.avi",
+      "/content/fall_detection_work/MCFD/MCFD/clips/chute24_cam8_0_107.272_110.908_1_8_mcfd.avi"
+    ]
+  },
+  "omnifall_label_rows": 1352,
+  "resolved_manifest_rows": 1352,
+  "missing_video_rows": 0,
+  "missing_split_rows": 0,
+  "malformed_rows": 0,
+  "split_file_row_counts": {
+    "train": 24,
+    "val": 24,
+    "test": 144
+  },
+  "split_map_entries": 192,
+  "split_counts": {
+    "test": 1014,
+    "train": 169,
+    "val": 169
+  },
+  "label_counts": {
+    "0": 912,
+    "1": 440
+  },
+  "camera_counts": {
+    "1": 169,
+    "2": 169,
+    "3": 169,
+    "4": 169,
+    "5": 169,
+    "6": 169,
+    "7": 169,
+    "8": 169
+  },
+  "missing_video_examples": [],
+  "missing_split_examples": [],
+  "malformed_examples": [],
+  "resolution_policy": "canonical MCFD key chute<N>/cam<M>; representative is exact cam<N> filename when available, otherwise deterministic shortest path",
+  "protocol": "cross-view / view-shift",
+  "time_policy": "use OmniFall annotation start/end directly"
+}

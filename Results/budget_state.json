@@ -1,0 +1,13 @@
+{
+  "seed": 20260903,
+  "hard_limit_s": 13788.0,
+  "target_limit_s": 10800,
+  "cumulative_completed_s": 2643.6673481464386,
+  "session_start_epoch": 1788461943.5894516,
+  "last_checkpoint_epoch": 1788461943.5894516,
+  "stopped_reason": "",
+  "elapsed_total_s": 2643.667414188385,
+  "target_exceeded": false,
+  "remaining_hard_s": 11144.332575321198,
+  "last_reason": "final_metadata"
+}
